@@ -1,7 +1,8 @@
 ---
 title: FM mission statement & values
+description: A summary of Facilities Management's mission and values
 date: 2026-08-25
-draft: true
+draft: false
 ---
 # **Mission statement and values**
 
