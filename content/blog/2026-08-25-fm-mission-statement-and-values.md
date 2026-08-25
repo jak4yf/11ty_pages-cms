@@ -6,8 +6,6 @@ draft: false
 tags:
   - about
 ---
-# **Mission statement and values**
-
 ## **Mission statement**
 
 ![Jefferson statue in front of Rotunda](https://www.fm.virginia.edu/images/photos/jefferson-clock.jpg)
@@ -18,7 +16,8 @@ We serve and plan for our community today while assessing and adapting to the ne
 
 **Respect** — *We value all members of our community by recognizing and honoring our similarities and our differences.*
 
-- I recognize the fundamental human dignity of each person and strive to treat them with kindness, empathy, and compassion.
+- I recognize the fundamental human dignity of each person and strive to treat them with kindness, empathy, and compassion. 
+- Testing a [link](https://www.fm.virginia.edu/about/mission.html).
 - I work through conflict constructively.
 - I am professional in my interaction with others, and I am considerate with my words and actions.
 
